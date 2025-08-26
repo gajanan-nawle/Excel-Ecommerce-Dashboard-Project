@@ -1,6 +1,6 @@
 Project Title: E-commerce Customer Intelligence Dashboard
 
-!(./Screenshot%202025-08-26%20075131.png)
+[!(./Screenshot%202025-08-26%20075131.png)](https://github.com/gajanan-nawle/Excel-Ecommerce-Dashboard-Project/blob/main/Screenshot%202025-08-26%20075131.png)
 
 1. Business Problem & Objective
 I took on the role of a data analyst for a UK-based e-commerce retailer. The company had a large, raw dataset of over 500,000 transactions but lacked clear insights into customer behavior. The objective was to transform this data into an interactive dashboard that could answer critical business questions about sales trends, customer value, and retention, ultimately providing actionable intelligence to drive growth.
