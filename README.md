@@ -34,4 +34,4 @@ All analyses were synthesized into a single, interactive executive dashboard. Th
 - Insight 3: Seasonality is Predictable. The sales trend chart shows a clear peak in November. Recommendation: The business should plan inventory and marketing efforts to capitalize on this predictable holiday rush.
 
 ## Conclusion
-This project successfully completed the full data analysis lifecycle—from cleaning messy data with Power Query to delivering strategic, forward-looking recommendations via an interactive dashboard. It transformed a raw dataset into a powerful, holistic tool for data-driven decision-making.
+This project successfully completed the full data analysis lifecycle — from cleaning messy data with Power Query to delivering strategic, forward-looking recommendations via an interactive dashboard. It transformed a raw dataset into a powerful, holistic tool for data-driven decision-making.
